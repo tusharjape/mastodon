@@ -1,1 +1,2 @@
 This is just some random text that I am adding for learning git.
+Just making some random edits.
